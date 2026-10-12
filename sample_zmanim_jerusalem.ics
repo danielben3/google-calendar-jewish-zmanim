@@ -1,0 +1,1809 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jewish Halachic Times & Parasha//Google Calendar Extension//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:זמני היום ופרשת שבוע (ירושלים)
+X-WR-TIMEZONE:Asia/Jerusalem
+X-WR-CALDESC:זמני זריחה, שקיעה, כניסת שבת ופרשת שבוע כאירועי יום שלם
+BEGIN:VEVENT
+UID:zmanim-20261012-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🌿 ראש חודש חשון | ☀️ 06:40 | 🌅 18:10 | א׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: א׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש חשון\nזריחה: 06:40\nשקיעה: 18:10\nסוף זמן ק"ש (גר"א): 09:32\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:25\nצאת הכוכבים: 18:46
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261013-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:☀️ 06:40 | 🌅 18:09 | ב׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ב׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 06:40\nשקיעה: 18:09\nסוף זמן ק"ש (גר"א): 09:32\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:25\nצאת הכוכבים: 18:45
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261014-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:☀️ 06:41 | 🌅 18:08 | ג׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ג׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 06:41\nשקיעה: 18:08\nסוף זמן ק"ש (גר"א): 09:33\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:24\nצאת הכוכבים: 18:44
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261015-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:☀️ 06:42 | 🌅 18:07 | ד׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ד׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 06:42\nשקיעה: 18:07\nסוף זמן ק"ש (גר"א): 09:33\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:24\nצאת הכוכבים: 18:43
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261016-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🕯️ כניסת שבת: 17:26 | פרשת נח | 🌅 שקיעה: 18:06
+DESCRIPTION:תאריך עברי: ה׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 17:26\nפרשת השבוע: פרשת נח\nשקיעה: 18:06\nזריחה: 06:42\nסוף זמן ק"ש (גר"א): 09:33\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:24\nצאת הכוכבים: 18:42
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261017-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:✨ פרשת נח | 🍷 צאת שבת: 18:41
+DESCRIPTION:תאריך עברי: ו׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת נח\nהבדלה: 18:41\nשקיעה: 18:04\nזריחה: 06:43\nסוף זמן ק"ש (גר"א): 09:33\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:24\nצאת הכוכבים: 18:41
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261018-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:🌿 שמירת בית הספר ליום העליה | ☀️ 06:44 | 🌅 18:03 | ז׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ז׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: שמירת בית הספר ליום העליה\nזריחה: 06:44\nשקיעה: 18:03\nסוף זמן ק"ש (גר"א): 09:34\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:24\nצאת הכוכבים: 18:40
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261019-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🌿 תענית בה״ב | ☀️ 06:45 | 🌅 18:02 | ח׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ח׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: תענית בה״ב\nזריחה: 06:45\nשקיעה: 18:02\nסוף זמן ק"ש (גר"א): 09:34\nסוף זמן תפילה (גר"א): 10:30\nחצות היום: 12:23\nצאת הכוכבים: 18:39
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261020-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:☀️ 06:45 | 🌅 18:01 | ט׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ט׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 06:45\nשקיעה: 18:01\nסוף זמן ק"ש (גר"א): 09:34\nסוף זמן תפילה (גר"א): 10:31\nחצות היום: 12:23\nצאת הכוכבים: 18:38
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261021-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:☀️ 06:46 | 🌅 18:00 | י׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: י׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 06:46\nשקיעה: 18:00\nסוף זמן ק"ש (גר"א): 09:35\nסוף זמן תפילה (גר"א): 10:31\nחצות היום: 12:23\nצאת הכוכבים: 18:37
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261022-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🌿 יום הזכרון ליצחק רבין\, תענית בה״ב | ☀️ 06:47 | 🌅 17:59 | י״א חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: י״א חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: יום הזכרון ליצחק רבין\, תענית בה״ב\nזריחה: 06:47\nשקיעה: 17:59\nסוף זמן ק"ש (גר"א): 09:35\nסוף זמן תפילה (גר"א): 10:31\nחצות היום: 12:23\nצאת הכוכבים: 18:36
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261023-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🕯️ כניסת שבת: 17:18 | פרשת לךלך | 🌅 שקיעה: 17:58
+DESCRIPTION:תאריך עברי: י״ב חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 17:18\nפרשת השבוע: פרשת לךלך\nשקיעה: 17:58\nזריחה: 06:48\nסוף זמן ק"ש (גר"א): 09:35\nסוף זמן תפילה (גר"א): 10:31\nחצות היום: 12:23\nצאת הכוכבים: 18:35
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261024-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:✨ פרשת לךלך | 🍷 צאת שבת: 18:34
+DESCRIPTION:תאריך עברי: י״ג חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת לךלך\nהבדלה: 18:34\nשקיעה: 17:57\nזריחה: 06:48\nסוף זמן ק"ש (גר"א): 09:35\nסוף זמן תפילה (גר"א): 10:31\nחצות היום: 12:23\nצאת הכוכבים: 18:34
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261025-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:☀️ 05:49 | 🌅 16:56 | י״ד חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: י״ד חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:49\nשקיעה: 16:56\nסוף זמן ק"ש (גר"א): 08:36\nסוף זמן תפילה (גר"א): 09:31\nחצות היום: 11:22\nצאת הכוכבים: 17:33
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261026-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🌿 תענית בה״ב | ☀️ 05:50 | 🌅 16:55 | ט״ו חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ו חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: תענית בה״ב\nזריחה: 05:50\nשקיעה: 16:55\nסוף זמן ק"ש (גר"א): 08:36\nסוף זמן תפילה (גר"א): 09:32\nחצות היום: 11:22\nצאת הכוכבים: 17:32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261027-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:☀️ 05:51 | 🌅 16:54 | ט״ז חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ז חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:51\nשקיעה: 16:54\nסוף זמן ק"ש (גר"א): 08:36\nסוף זמן תפילה (גר"א): 09:32\nחצות היום: 11:22\nצאת הכוכבים: 17:31
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261028-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:☀️ 05:51 | 🌅 16:53 | י״ז חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: י״ז חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:51\nשקיעה: 16:53\nסוף זמן ק"ש (גר"א): 08:37\nסוף זמן תפילה (גר"א): 09:32\nחצות היום: 11:22\nצאת הכוכבים: 17:30
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261029-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:☀️ 05:52 | 🌅 16:52 | י״ח חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: י״ח חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:52\nשקיעה: 16:52\nסוף זמן ק"ש (גר"א): 08:37\nסוף זמן תפילה (גר"א): 09:32\nחצות היום: 11:22\nצאת הכוכבים: 17:29
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261030-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🕯️ כניסת שבת: 16:11 | פרשת וירא | 🌅 שקיעה: 16:51
+DESCRIPTION:תאריך עברי: י״ט חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:11\nפרשת השבוע: פרשת וירא\nשקיעה: 16:51\nזריחה: 05:53\nסוף זמן ק"ש (גר"א): 08:38\nסוף זמן תפילה (גר"א): 09:32\nחצות היום: 11:22\nצאת הכוכבים: 17:28
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261031-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:✨ פרשת וירא | 🍷 צאת שבת: 17:27
+DESCRIPTION:תאריך עברי: כ׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת וירא\nהבדלה: 17:27\nשקיעה: 16:50\nזריחה: 05:54\nסוף זמן ק"ש (גר"א): 08:38\nסוף זמן תפילה (גר"א): 09:33\nחצות היום: 11:22\nצאת הכוכבים: 17:27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261101-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:☀️ 05:55 | 🌅 16:49 | כ״א חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״א חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:55\nשקיעה: 16:49\nסוף זמן ק"ש (גר"א): 08:38\nסוף זמן תפילה (גר"א): 09:33\nחצות היום: 11:22\nצאת הכוכבים: 17:26
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261102-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:☀️ 05:56 | 🌅 16:48 | כ״ב חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ב חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:56\nשקיעה: 16:48\nסוף זמן ק"ש (גר"א): 08:39\nסוף זמן תפילה (גר"א): 09:33\nחצות היום: 11:22\nצאת הכוכבים: 17:26
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261103-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:☀️ 05:56 | 🌅 16:48 | כ״ג חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ג חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:56\nשקיעה: 16:48\nסוף זמן ק"ש (גר"א): 08:39\nסוף זמן תפילה (גר"א): 09:33\nחצות היום: 11:22\nצאת הכוכבים: 17:25
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261104-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:☀️ 05:57 | 🌅 16:47 | כ״ד חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ד חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:57\nשקיעה: 16:47\nסוף זמן ק"ש (גר"א): 08:40\nסוף זמן תפילה (גר"א): 09:34\nחצות היום: 11:22\nצאת הכוכבים: 17:24
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261105-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:☀️ 05:58 | 🌅 16:46 | כ״ה חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ה חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 05:58\nשקיעה: 16:46\nסוף זמן ק"ש (גר"א): 08:40\nסוף זמן תפילה (גר"א): 09:34\nחצות היום: 11:22\nצאת הכוכבים: 17:23
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261106-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🕯️ כניסת שבת: 16:05 | פרשת חיי שרה | 🌅 שקיעה: 16:45
+DESCRIPTION:תאריך עברי: כ״ו חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:05\nפרשת השבוע: פרשת חיי שרה\nשקיעה: 16:45\nזריחה: 05:59\nסוף זמן ק"ש (גר"א): 08:40\nסוף זמן תפילה (גר"א): 09:34\nחצות היום: 11:22\nצאת הכוכבים: 17:23
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261107-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:✨ פרשת חיי שרה | 🍷 צאת שבת: 17:22
+DESCRIPTION:תאריך עברי: כ״ז חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת חיי שרה\nהבדלה: 17:22\nשקיעה: 16:44\nזריחה: 06:00\nסוף זמן ק"ש (גר"א): 08:41\nסוף זמן תפילה (גר"א): 09:35\nחצות היום: 11:22\nצאת הכוכבים: 17:22
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261108-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:☀️ 06:01 | 🌅 16:44 | כ״ח חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ח חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nזריחה: 06:01\nשקיעה: 16:44\nסוף זמן ק"ש (גר"א): 08:41\nסוף זמן תפילה (גר"א): 09:35\nחצות היום: 11:22\nצאת הכוכבים: 17:21
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261109-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🌿 חג הסיגד\, יום כפור קטן כסלו | ☀️ 06:01 | 🌅 16:43 | כ״ט חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ט חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: חג הסיגד\, יום כפור קטן כסלו\nזריחה: 06:01\nשקיעה: 16:43\nסוף זמן ק"ש (גר"א): 08:42\nסוף זמן תפילה (גר"א): 09:35\nחצות היום: 11:22\nצאת הכוכבים: 17:21
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261110-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🌿 ראש חודש כסלו | ☀️ 06:02 | 🌅 16:42 | ל׳ חֶשְׁוָן תשפ״ז
+DESCRIPTION:תאריך עברי: ל׳ חֶשְׁוָן תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש כסלו\nזריחה: 06:02\nשקיעה: 16:42\nסוף זמן ק"ש (גר"א): 08:42\nסוף זמן תפילה (גר"א): 09:36\nחצות היום: 11:22\nצאת הכוכבים: 17:20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261111-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🌿 ראש חודש כסלו | ☀️ 06:03 | 🌅 16:42 | א׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: א׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש כסלו\nזריחה: 06:03\nשקיעה: 16:42\nסוף זמן ק"ש (גר"א): 08:43\nסוף זמן תפילה (גר"א): 09:36\nחצות היום: 11:22\nצאת הכוכבים: 17:20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261112-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:☀️ 06:04 | 🌅 16:41 | ב׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ב׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:04\nשקיעה: 16:41\nסוף זמן ק"ש (גר"א): 08:43\nסוף זמן תפילה (גר"א): 09:36\nחצות היום: 11:23\nצאת הכוכבים: 17:19
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261113-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🕯️ כניסת שבת: 16:00 | פרשת תולדות | 🌅 שקיעה: 16:40
+DESCRIPTION:תאריך עברי: ג׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:00\nפרשת השבוע: פרשת תולדות\nשקיעה: 16:40\nזריחה: 06:05\nסוף זמן ק"ש (גר"א): 08:44\nסוף זמן תפילה (גר"א): 09:37\nחצות היום: 11:23\nצאת הכוכבים: 17:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261114-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:✨ פרשת תולדות | 🍷 צאת שבת: 17:18
+DESCRIPTION:תאריך עברי: ד׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת תולדות\nהבדלה: 17:18\nשקיעה: 16:40\nזריחה: 06:06\nסוף זמן ק"ש (גר"א): 08:44\nסוף זמן תפילה (גר"א): 09:37\nחצות היום: 11:23\nצאת הכוכבים: 17:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261115-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:☀️ 06:07 | 🌅 16:39 | ה׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ה׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:07\nשקיעה: 16:39\nסוף זמן ק"ש (גר"א): 08:45\nסוף זמן תפילה (גר"א): 09:38\nחצות היום: 11:23\nצאת הכוכבים: 17:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261116-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🌿 יום בןגוריון | ☀️ 06:08 | 🌅 16:39 | ו׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ו׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: יום בןגוריון\nזריחה: 06:08\nשקיעה: 16:39\nסוף זמן ק"ש (גר"א): 08:45\nסוף זמן תפילה (גר"א): 09:38\nחצות היום: 11:23\nצאת הכוכבים: 17:17
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261117-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:☀️ 06:08 | 🌅 16:38 | ז׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ז׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:08\nשקיעה: 16:38\nסוף זמן ק"ש (גר"א): 08:46\nסוף זמן תפילה (גר"א): 09:38\nחצות היום: 11:23\nצאת הכוכבים: 17:17
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261118-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:☀️ 06:09 | 🌅 16:38 | ח׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ח׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:09\nשקיעה: 16:38\nסוף זמן ק"ש (גר"א): 08:46\nסוף זמן תפילה (גר"א): 09:39\nחצות היום: 11:24\nצאת הכוכבים: 17:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261119-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:☀️ 06:10 | 🌅 16:37 | ט׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ט׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:10\nשקיעה: 16:37\nסוף זמן ק"ש (גר"א): 08:47\nסוף זמן תפילה (גר"א): 09:39\nחצות היום: 11:24\nצאת הכוכבים: 17:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261120-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🕯️ כניסת שבת: 15:57 | פרשת ויצא | 🌅 שקיעה: 16:37
+DESCRIPTION:תאריך עברי: י׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 15:57\nפרשת השבוע: פרשת ויצא\nשקיעה: 16:37\nזריחה: 06:11\nסוף זמן ק"ש (גר"א): 08:48\nסוף זמן תפילה (גר"א): 09:40\nחצות היום: 11:24\nצאת הכוכבים: 17:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261121-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:✨ פרשת ויצא | 🍷 צאת שבת: 17:15
+DESCRIPTION:תאריך עברי: י״א כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת ויצא\nהבדלה: 17:15\nשקיעה: 16:37\nזריחה: 06:12\nסוף זמן ק"ש (גר"א): 08:48\nסוף זמן תפילה (גר"א): 09:40\nחצות היום: 11:24\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261122-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:☀️ 06:13 | 🌅 16:36 | י״ב כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: י״ב כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:13\nשקיעה: 16:36\nסוף זמן ק"ש (גר"א): 08:49\nסוף זמן תפילה (גר"א): 09:41\nחצות היום: 11:25\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261123-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:☀️ 06:14 | 🌅 16:36 | י״ג כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: י״ג כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:14\nשקיעה: 16:36\nסוף זמן ק"ש (גר"א): 08:49\nסוף זמן תפילה (גר"א): 09:41\nחצות היום: 11:25\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261124-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:☀️ 06:15 | 🌅 16:36 | י״ד כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: י״ד כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:15\nשקיעה: 16:36\nסוף זמן ק"ש (גר"א): 08:50\nסוף זמן תפילה (גר"א): 09:42\nחצות היום: 11:25\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261125-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:☀️ 06:15 | 🌅 16:35 | ט״ו כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ו כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:15\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:50\nסוף זמן תפילה (גר"א): 09:42\nחצות היום: 11:25\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261126-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:☀️ 06:16 | 🌅 16:35 | ט״ז כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ז כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:16\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:51\nסוף זמן תפילה (גר"א): 09:43\nחצות היום: 11:26\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261127-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🕯️ כניסת שבת: 15:55 | פרשת וישלח | 🌅 שקיעה: 16:35
+DESCRIPTION:תאריך עברי: י״ז כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 15:55\nפרשת השבוע: פרשת וישלח\nשקיעה: 16:35\nזריחה: 06:17\nסוף זמן ק"ש (גר"א): 08:52\nסוף זמן תפילה (גר"א): 09:43\nחצות היום: 11:26\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261128-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:✨ פרשת וישלח | 🍷 צאת שבת: 17:14
+DESCRIPTION:תאריך עברי: י״ח כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת וישלח\nהבדלה: 17:14\nשקיעה: 16:35\nזריחה: 06:18\nסוף זמן ק"ש (גר"א): 08:52\nסוף זמן תפילה (גר"א): 09:44\nחצות היום: 11:26\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261129-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:☀️ 06:19 | 🌅 16:35 | י״ט כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: י״ט כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:19\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:53\nסוף זמן תפילה (גר"א): 09:44\nחצות היום: 11:27\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261130-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:☀️ 06:20 | 🌅 16:35 | כ׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:20\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:53\nסוף זמן תפילה (גר"א): 09:45\nחצות היום: 11:27\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261201-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:☀️ 06:21 | 🌅 16:35 | כ״א כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״א כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:21\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:54\nסוף זמן תפילה (גר"א): 09:45\nחצות היום: 11:28\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261202-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:☀️ 06:21 | 🌅 16:34 | כ״ב כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ב כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:21\nשקיעה: 16:34\nסוף זמן ק"ש (גר"א): 08:55\nסוף זמן תפילה (גר"א): 09:46\nחצות היום: 11:28\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261203-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:☀️ 06:22 | 🌅 16:34 | כ״ג כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ג כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nזריחה: 06:22\nשקיעה: 16:34\nסוף זמן ק"ש (גר"א): 08:55\nסוף זמן תפילה (גר"א): 09:46\nחצות היום: 11:28\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261204-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🌿 חנוכה: א׳ נר | 🕯️ כניסת שבת: 15:54 | פרשת וישב | 🌅 שקיעה: 16:34
+DESCRIPTION:תאריך עברי: כ״ד כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: א׳ נר\nהדלקת נרות (40 דק'): 15:54\nפרשת השבוע: פרשת וישב\nשקיעה: 16:34\nזריחה: 06:23\nסוף זמן ק"ש (גר"א): 08:56\nסוף זמן תפילה (גר"א): 09:47\nחצות היום: 11:29\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261205-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🌿 חנוכה: ב׳ נרות | ✨ פרשת וישב | 🍷 צאת שבת: 17:14
+DESCRIPTION:תאריך עברי: כ״ה כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: ב׳ נרות\nפרשת השבוע: פרשת וישב\nהבדלה: 17:14\nשקיעה: 16:34\nזריחה: 06:24\nסוף זמן ק"ש (גר"א): 08:56\nסוף זמן תפילה (גר"א): 09:47\nחצות היום: 11:29\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261206-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:🌿 חנוכה: ג׳ נרות | ☀️ 06:25 | 🌅 16:35 | כ״ו כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ו כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: ג׳ נרות\nזריחה: 06:25\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:57\nסוף זמן תפילה (גר"א): 09:48\nחצות היום: 11:30\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261207-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🌿 חנוכה: ד׳ נרות | ☀️ 06:25 | 🌅 16:35 | כ״ז כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ז כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: ד׳ נרות\nזריחה: 06:25\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:58\nסוף זמן תפילה (גר"א): 09:48\nחצות היום: 11:30\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261208-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🌿 חנוכה: ה׳ נרות | ☀️ 06:26 | 🌅 16:35 | כ״ח כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ח כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: ה׳ נרות\nזריחה: 06:26\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:58\nסוף זמן תפילה (גר"א): 09:49\nחצות היום: 11:30\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261209-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🌿 חנוכה: ו׳ נרות | ☀️ 06:27 | 🌅 16:35 | כ״ט כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ט כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: ו׳ נרות\nזריחה: 06:27\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:59\nסוף זמן תפילה (גר"א): 09:50\nחצות היום: 11:31\nצאת הכוכבים: 17:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261210-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🌿 חג הבנות\, חנוכה: ז׳ נרות\, ראש חודש טבת | ☀️ 06:28 | 🌅 16:35 | ל׳ כִּסְלֵו תשפ״ז
+DESCRIPTION:תאריך עברי: ל׳ כִּסְלֵו תשפ״ז\nמיקום: ירושלים\nמועד: חג הבנות\, חנוכה: ז׳ נרות\, ראש חודש טבת\nזריחה: 06:28\nשקיעה: 16:35\nסוף זמן ק"ש (גר"א): 08:59\nסוף זמן תפילה (גר"א): 09:50\nחצות היום: 11:31\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261211-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🌿 חנוכה: ח׳ נרות\, ראש חודש טבת | 🕯️ כניסת שבת: 15:55 | פרשת מקץ | 🌅 שקיעה: 16:35
+DESCRIPTION:תאריך עברי: א׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: ח׳ נרות\, ראש חודש טבת\nהדלקת נרות (40 דק'): 15:55\nפרשת השבוע: פרשת מקץ\nשקיעה: 16:35\nזריחה: 06:28\nסוף זמן ק"ש (גר"א): 09:00\nסוף זמן תפילה (גר"א): 09:51\nחצות היום: 11:32\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261212-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:🌿 חנוכה: יום ח׳ | ✨ פרשת מקץ | 🍷 צאת שבת: 17:15
+DESCRIPTION:תאריך עברי: ב׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nמועד: חנוכה: יום ח׳\nפרשת השבוע: פרשת מקץ\nהבדלה: 17:15\nשקיעה: 16:36\nזריחה: 06:29\nסוף זמן ק"ש (גר"א): 09:01\nסוף זמן תפילה (גר"א): 09:51\nחצות היום: 11:32\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261213-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:☀️ 06:30 | 🌅 16:36 | ג׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: ג׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:30\nשקיעה: 16:36\nסוף זמן ק"ש (גר"א): 09:01\nסוף זמן תפילה (גר"א): 09:52\nחצות היום: 11:33\nצאת הכוכבים: 17:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261214-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:☀️ 06:30 | 🌅 16:36 | ד׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: ד׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:30\nשקיעה: 16:36\nסוף זמן ק"ש (גר"א): 09:02\nסוף זמן תפילה (גר"א): 09:52\nחצות היום: 11:33\nצאת הכוכבים: 17:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261215-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:☀️ 06:31 | 🌅 16:36 | ה׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: ה׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:31\nשקיעה: 16:36\nסוף זמן ק"ש (גר"א): 09:02\nסוף זמן תפילה (גר"א): 09:53\nחצות היום: 11:34\nצאת הכוכבים: 17:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261216-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:☀️ 06:32 | 🌅 16:37 | ו׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: ו׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:32\nשקיעה: 16:37\nסוף זמן ק"ש (גר"א): 09:03\nסוף זמן תפילה (גר"א): 09:53\nחצות היום: 11:34\nצאת הכוכבים: 17:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261217-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:☀️ 06:32 | 🌅 16:37 | ז׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: ז׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:32\nשקיעה: 16:37\nסוף זמן ק"ש (גר"א): 09:03\nסוף זמן תפילה (גר"א): 09:54\nחצות היום: 11:35\nצאת הכוכבים: 17:17
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261218-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🕯️ כניסת שבת: 15:58 | פרשת ויגש | 🌅 שקיעה: 16:38
+DESCRIPTION:תאריך עברי: ח׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 15:58\nפרשת השבוע: פרשת ויגש\nשקיעה: 16:38\nזריחה: 06:33\nסוף זמן ק"ש (גר"א): 09:04\nסוף זמן תפילה (גר"א): 09:54\nחצות היום: 11:35\nצאת הכוכבים: 17:17
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261219-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:✨ פרשת ויגש | 🍷 צאת שבת: 17:18
+DESCRIPTION:תאריך עברי: ט׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת ויגש\nהבדלה: 17:18\nשקיעה: 16:38\nזריחה: 06:33\nסוף זמן ק"ש (גר"א): 09:05\nסוף זמן תפילה (גר"א): 09:55\nחצות היום: 11:36\nצאת הכוכבים: 17:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261220-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:🌿 עשרה בטבת | ☀️ 06:34 | 🌅 16:38 | י׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nמועד: עשרה בטבת\nזריחה: 06:34\nשקיעה: 16:38\nסוף זמן ק"ש (גר"א): 09:05\nסוף זמן תפילה (גר"א): 09:55\nחצות היום: 11:36\nצאת הכוכבים: 17:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261221-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:☀️ 06:34 | 🌅 16:39 | י״א טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״א טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:34\nשקיעה: 16:39\nסוף זמן ק"ש (גר"א): 09:06\nסוף זמן תפילה (גר"א): 09:56\nחצות היום: 11:37\nצאת הכוכבים: 17:19
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261222-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:☀️ 06:35 | 🌅 16:39 | י״ב טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״ב טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:35\nשקיעה: 16:39\nסוף זמן ק"ש (גר"א): 09:06\nסוף זמן תפילה (גר"א): 09:56\nחצות היום: 11:37\nצאת הכוכבים: 17:19
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261223-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:☀️ 06:35 | 🌅 16:40 | י״ג טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״ג טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:35\nשקיעה: 16:40\nסוף זמן ק"ש (גר"א): 09:07\nסוף זמן תפילה (גר"א): 09:57\nחצות היום: 11:38\nצאת הכוכבים: 17:20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261224-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:☀️ 06:36 | 🌅 16:40 | י״ד טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״ד טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:36\nשקיעה: 16:40\nסוף זמן ק"ש (גר"א): 09:07\nסוף זמן תפילה (גר"א): 09:57\nחצות היום: 11:38\nצאת הכוכבים: 17:20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261225-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🕯️ כניסת שבת: 16:01 | פרשת ויחי | 🌅 שקיעה: 16:41
+DESCRIPTION:תאריך עברי: ט״ו טֵבֵת תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:01\nפרשת השבוע: פרשת ויחי\nשקיעה: 16:41\nזריחה: 06:36\nסוף זמן ק"ש (גר"א): 09:07\nסוף זמן תפילה (גר"א): 09:58\nחצות היום: 11:39\nצאת הכוכבים: 17:21
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261226-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:✨ פרשת ויחי | 🍷 צאת שבת: 17:21
+DESCRIPTION:תאריך עברי: ט״ז טֵבֵת תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת ויחי\nהבדלה: 17:21\nשקיעה: 16:42\nזריחה: 06:37\nסוף זמן ק"ש (גר"א): 09:08\nסוף זמן תפילה (גר"א): 09:58\nחצות היום: 11:39\nצאת הכוכבים: 17:21
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261227-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:☀️ 06:37 | 🌅 16:42 | י״ז טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״ז טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:37\nשקיעה: 16:42\nסוף זמן ק"ש (גר"א): 09:08\nסוף זמן תפילה (גר"א): 09:59\nחצות היום: 11:40\nצאת הכוכבים: 17:22
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261228-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:☀️ 06:37 | 🌅 16:43 | י״ח טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״ח טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:37\nשקיעה: 16:43\nסוף זמן ק"ש (גר"א): 09:09\nסוף זמן תפילה (גר"א): 09:59\nחצות היום: 11:40\nצאת הכוכבים: 17:23
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261229-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:☀️ 06:38 | 🌅 16:44 | י״ט טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: י״ט טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:38\nשקיעה: 16:44\nסוף זמן ק"ש (גר"א): 09:09\nסוף זמן תפילה (גר"א): 10:00\nחצות היום: 11:41\nצאת הכוכבים: 17:23
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261230-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:☀️ 06:38 | 🌅 16:44 | כ׳ טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ׳ טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:38\nשקיעה: 16:44\nסוף זמן ק"ש (גר"א): 09:10\nסוף זמן תפילה (גר"א): 10:00\nחצות היום: 11:41\nצאת הכוכבים: 17:24
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20261231-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🌿 יום השפה העברית | ☀️ 06:38 | 🌅 16:45 | כ״א טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ״א טֵבֵת תשפ״ז\nמיקום: ירושלים\nמועד: יום השפה העברית\nזריחה: 06:38\nשקיעה: 16:45\nסוף זמן ק"ש (גר"א): 09:10\nסוף זמן תפילה (גר"א): 10:01\nחצות היום: 11:42\nצאת הכוכבים: 17:25
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270101-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🕯️ כניסת שבת: 16:06 | פרשת שמות | 🌅 שקיעה: 16:46
+DESCRIPTION:תאריך עברי: כ״ב טֵבֵת תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:06\nפרשת השבוע: פרשת שמות\nשקיעה: 16:46\nזריחה: 06:39\nסוף זמן ק"ש (גר"א): 09:10\nסוף זמן תפילה (גר"א): 10:01\nחצות היום: 11:42\nצאת הכוכבים: 17:25
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270102-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:✨ פרשת שמות | 🍷 צאת שבת: 17:26
+DESCRIPTION:תאריך עברי: כ״ג טֵבֵת תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת שמות\nהבדלה: 17:26\nשקיעה: 16:46\nזריחה: 06:39\nסוף זמן ק"ש (גר"א): 09:11\nסוף זמן תפילה (גר"א): 10:01\nחצות היום: 11:43\nצאת הכוכבים: 17:26
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270103-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:☀️ 06:39 | 🌅 16:47 | כ״ד טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ד טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:47\nסוף זמן ק"ש (גר"א): 09:11\nסוף זמן תפילה (גר"א): 10:02\nחצות היום: 11:43\nצאת הכוכבים: 17:27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270104-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:☀️ 06:39 | 🌅 16:48 | כ״ה טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ה טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:48\nסוף זמן ק"ש (גר"א): 09:11\nסוף זמן תפילה (גר"א): 10:02\nחצות היום: 11:44\nצאת הכוכבים: 17:27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270105-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:☀️ 06:39 | 🌅 16:49 | כ״ו טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ו טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:49\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:02\nחצות היום: 11:44\nצאת הכוכבים: 17:28
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270106-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:☀️ 06:39 | 🌅 16:49 | כ״ז טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ז טֵבֵת תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:49\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:03\nחצות היום: 11:44\nצאת הכוכבים: 17:29
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270107-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:🌿 יום כפור קטן שבט | ☀️ 06:39 | 🌅 16:50 | כ״ח טֵבֵת תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ח טֵבֵת תשפ״ז\nמיקום: ירושלים\nמועד: יום כפור קטן שבט\nזריחה: 06:39\nשקיעה: 16:50\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:03\nחצות היום: 11:45\nצאת הכוכבים: 17:30
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270108-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:🕯️ כניסת שבת: 16:11 | פרשת וארא | 🌅 שקיעה: 16:51
+DESCRIPTION:תאריך עברי: כ״ט טֵבֵת תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:11\nפרשת השבוע: פרשת וארא\nשקיעה: 16:51\nזריחה: 06:40\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:03\nחצות היום: 11:45\nצאת הכוכבים: 17:30
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270109-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🌿 ראש חודש שבט | ✨ פרשת וארא | 🍷 צאת שבת: 17:31
+DESCRIPTION:תאריך עברי: א׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש שבט\nפרשת השבוע: פרשת וארא\nהבדלה: 17:31\nשקיעה: 16:52\nזריחה: 06:40\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:46\nצאת הכוכבים: 17:31
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270110-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:☀️ 06:40 | 🌅 16:53 | ב׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ב׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:40\nשקיעה: 16:53\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:46\nצאת הכוכבים: 17:32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270111-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:☀️ 06:39 | 🌅 16:54 | ג׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ג׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:54\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:47\nצאת הכוכבים: 17:33
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270112-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:☀️ 06:39 | 🌅 16:54 | ד׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ד׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:54\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:47\nצאת הכוכבים: 17:34
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270113-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:☀️ 06:39 | 🌅 16:55 | ה׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ה׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:55\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:47\nצאת הכוכבים: 17:34
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270114-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:☀️ 06:39 | 🌅 16:56 | ו׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ו׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:56\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:48\nצאת הכוכבים: 17:35
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270115-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:🕯️ כניסת שבת: 16:17 | פרשת בא | 🌅 שקיעה: 16:57
+DESCRIPTION:תאריך עברי: ז׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:17\nפרשת השבוע: פרשת בא\nשקיעה: 16:57\nזריחה: 06:39\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:48\nצאת הכוכבים: 17:36
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270116-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:✨ פרשת בא | 🍷 צאת שבת: 17:37
+DESCRIPTION:תאריך עברי: ח׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת בא\nהבדלה: 17:37\nשקיעה: 16:58\nזריחה: 06:39\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:48\nצאת הכוכבים: 17:37
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270117-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:☀️ 06:39 | 🌅 16:59 | ט׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ט׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:39\nשקיעה: 16:59\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:49\nצאת הכוכבים: 17:38
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270118-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:☀️ 06:38 | 🌅 17:00 | י׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:38\nשקיעה: 17:00\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:49\nצאת הכוכבים: 17:38
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270119-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:☀️ 06:38 | 🌅 17:01 | י״א שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י״א שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:38\nשקיעה: 17:01\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:49\nצאת הכוכבים: 17:39
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270120-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:☀️ 06:38 | 🌅 17:02 | י״ב שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י״ב שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:38\nשקיעה: 17:02\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:50\nצאת הכוכבים: 17:40
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270121-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:☀️ 06:37 | 🌅 17:02 | י״ג שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י״ג שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:37\nשקיעה: 17:02\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:50\nצאת הכוכבים: 17:41
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270122-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🕯️ כניסת שבת: 16:23 | פרשת בשלח | 🌅 שקיעה: 17:03
+DESCRIPTION:תאריך עברי: י״ד שְׁבָט תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:23\nפרשת השבוע: פרשת בשלח\nשקיעה: 17:03\nזריחה: 06:37\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:50\nצאת הכוכבים: 17:42
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270123-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🌿 ט״ו בשבט\, שבת שירה | ✨ פרשת בשלח | 🍷 צאת שבת: 17:43
+DESCRIPTION:תאריך עברי: ט״ו שְׁבָט תשפ״ז\nמיקום: ירושלים\nמועד: ט״ו בשבט\, שבת שירה\nפרשת השבוע: פרשת בשלח\nהבדלה: 17:43\nשקיעה: 17:04\nזריחה: 06:37\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:51\nצאת הכוכבים: 17:43
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270124-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:☀️ 06:36 | 🌅 17:05 | ט״ז שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ז שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:36\nשקיעה: 17:05\nסוף זמן ק"ש (גר"א): 09:14\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:51\nצאת הכוכבים: 17:44
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270125-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:☀️ 06:36 | 🌅 17:06 | י״ז שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י״ז שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:36\nשקיעה: 17:06\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:51\nצאת הכוכבים: 17:44
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270126-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:☀️ 06:35 | 🌅 17:07 | י״ח שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י״ח שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:35\nשקיעה: 17:07\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:51\nצאת הכוכבים: 17:45
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270127-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:☀️ 06:35 | 🌅 17:08 | י״ט שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: י״ט שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:35\nשקיעה: 17:08\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:51\nצאת הכוכבים: 17:46
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270128-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:☀️ 06:34 | 🌅 17:09 | כ׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: כ׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:34\nשקיעה: 17:09\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:52\nצאת הכוכבים: 17:47
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270129-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:🕯️ כניסת שבת: 16:30 | פרשת יתרו | 🌅 שקיעה: 17:10
+DESCRIPTION:תאריך עברי: כ״א שְׁבָט תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:30\nפרשת השבוע: פרשת יתרו\nשקיעה: 17:10\nזריחה: 06:34\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:52\nצאת הכוכבים: 17:48
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270130-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:✨ פרשת יתרו | 🍷 צאת שבת: 17:49
+DESCRIPTION:תאריך עברי: כ״ב שְׁבָט תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת יתרו\nהבדלה: 17:49\nשקיעה: 17:11\nזריחה: 06:33\nסוף זמן ק"ש (גר"א): 09:13\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:52\nצאת הכוכבים: 17:49
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270131-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:☀️ 06:33 | 🌅 17:12 | כ״ג שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ג שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:33\nשקיעה: 17:12\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:52\nצאת הכוכבים: 17:50
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270201-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:☀️ 06:32 | 🌅 17:13 | כ״ד שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ד שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:32\nשקיעה: 17:13\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:06\nחצות היום: 11:52\nצאת הכוכבים: 17:50
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270202-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:☀️ 06:31 | 🌅 17:14 | כ״ה שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ה שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:31\nשקיעה: 17:14\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:52\nצאת הכוכבים: 17:51
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270203-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:☀️ 06:31 | 🌅 17:14 | כ״ו שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ו שְׁבָט תשפ״ז\nמיקום: ירושלים\nזריחה: 06:31\nשקיעה: 17:14\nסוף זמן ק"ש (גר"א): 09:12\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:53\nצאת הכוכבים: 17:52
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270204-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:🌿 יום כפור קטן אדר א׳ | ☀️ 06:30 | 🌅 17:15 | כ״ז שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ז שְׁבָט תשפ״ז\nמיקום: ירושלים\nמועד: יום כפור קטן אדר א׳\nזריחה: 06:30\nשקיעה: 17:15\nסוף זמן ק"ש (גר"א): 09:11\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:53\nצאת הכוכבים: 17:53
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270205-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:🕯️ כניסת שבת: 16:36 | פרשת משפטים | 🌅 שקיעה: 17:16
+DESCRIPTION:תאריך עברי: כ״ח שְׁבָט תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:36\nפרשת השבוע: פרשת משפטים\nשקיעה: 17:16\nזריחה: 06:29\nסוף זמן ק"ש (גר"א): 09:11\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:53\nצאת הכוכבים: 17:54
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270206-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:✨ פרשת משפטים | 🍷 צאת שבת: 17:55
+DESCRIPTION:תאריך עברי: כ״ט שְׁבָט תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת משפטים\nהבדלה: 17:55\nשקיעה: 17:17\nזריחה: 06:29\nסוף זמן ק"ש (גר"א): 09:11\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:53\nצאת הכוכבים: 17:55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270207-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:🌿 יום המשפחה\, ראש חודש אדר א׳ | ☀️ 06:28 | 🌅 17:18 | ל׳ שְׁבָט תשפ״ז
+DESCRIPTION:תאריך עברי: ל׳ שְׁבָט תשפ״ז\nמיקום: ירושלים\nמועד: יום המשפחה\, ראש חודש אדר א׳\nזריחה: 06:28\nשקיעה: 17:18\nסוף זמן ק"ש (גר"א): 09:10\nסוף זמן תפילה (גר"א): 10:05\nחצות היום: 11:53\nצאת הכוכבים: 17:55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270208-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:🌿 ראש חודש אדר א׳ | ☀️ 06:27 | 🌅 17:19 | א׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: א׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש אדר א׳\nזריחה: 06:27\nשקיעה: 17:19\nסוף זמן ק"ש (גר"א): 09:10\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:53\nצאת הכוכבים: 17:56
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270209-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:☀️ 06:26 | 🌅 17:20 | ב׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ב׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:26\nשקיעה: 17:20\nסוף זמן ק"ש (גר"א): 09:10\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:53\nצאת הכוכבים: 17:57
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270210-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:☀️ 06:25 | 🌅 17:21 | ג׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ג׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:25\nשקיעה: 17:21\nסוף זמן ק"ש (גר"א): 09:09\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:53\nצאת הכוכבים: 17:58
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270211-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:☀️ 06:25 | 🌅 17:22 | ד׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ד׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:25\nשקיעה: 17:22\nסוף זמן ק"ש (גר"א): 09:09\nסוף זמן תפילה (גר"א): 10:04\nחצות היום: 11:53\nצאת הכוכבים: 17:59
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270212-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:🕯️ כניסת שבת: 16:42 | פרשת תרומה | 🌅 שקיעה: 17:22
+DESCRIPTION:תאריך עברי: ה׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:42\nפרשת השבוע: פרשת תרומה\nשקיעה: 17:22\nזריחה: 06:24\nסוף זמן ק"ש (גר"א): 09:08\nסוף זמן תפילה (גר"א): 10:03\nחצות היום: 11:53\nצאת הכוכבים: 17:59
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270213-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:✨ פרשת תרומה | 🍷 צאת שבת: 18:00
+DESCRIPTION:תאריך עברי: ו׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת תרומה\nהבדלה: 18:00\nשקיעה: 17:23\nזריחה: 06:23\nסוף זמן ק"ש (גר"א): 09:08\nסוף זמן תפילה (גר"א): 10:03\nחצות היום: 11:53\nצאת הכוכבים: 18:00
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270214-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:☀️ 06:22 | 🌅 17:24 | ז׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ז׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:22\nשקיעה: 17:24\nסוף זמן ק"ש (גר"א): 09:07\nסוף זמן תפילה (גר"א): 10:03\nחצות היום: 11:53\nצאת הכוכבים: 18:01
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270215-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:☀️ 06:21 | 🌅 17:25 | ח׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ח׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:21\nשקיעה: 17:25\nסוף זמן ק"ש (גר"א): 09:07\nסוף זמן תפילה (גר"א): 10:02\nחצות היום: 11:53\nצאת הכוכבים: 18:02
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270216-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:☀️ 06:20 | 🌅 17:26 | ט׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ט׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:20\nשקיעה: 17:26\nסוף זמן ק"ש (גר"א): 09:06\nסוף זמן תפילה (גר"א): 10:02\nחצות היום: 11:53\nצאת הכוכבים: 18:03
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270217-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:☀️ 06:19 | 🌅 17:27 | י׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:19\nשקיעה: 17:27\nסוף זמן ק"ש (גר"א): 09:06\nסוף זמן תפילה (גר"א): 10:02\nחצות היום: 11:53\nצאת הכוכבים: 18:03
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270218-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:☀️ 06:18 | 🌅 17:27 | י״א אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״א אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:18\nשקיעה: 17:27\nסוף זמן ק"ש (גר"א): 09:05\nסוף זמן תפילה (גר"א): 10:01\nחצות היום: 11:53\nצאת הכוכבים: 18:04
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270219-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:🕯️ כניסת שבת: 16:48 | פרשת תצוה | 🌅 שקיעה: 17:28
+DESCRIPTION:תאריך עברי: י״ב אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:48\nפרשת השבוע: פרשת תצוה\nשקיעה: 17:28\nזריחה: 06:17\nסוף זמן ק"ש (גר"א): 09:05\nסוף זמן תפילה (גר"א): 10:01\nחצות היום: 11:53\nצאת הכוכבים: 18:05
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270220-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:✨ פרשת תצוה | 🍷 צאת שבת: 18:06
+DESCRIPTION:תאריך עברי: י״ג אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת תצוה\nהבדלה: 18:06\nשקיעה: 17:29\nזריחה: 06:16\nסוף זמן ק"ש (גר"א): 09:04\nסוף זמן תפילה (גר"א): 10:00\nחצות היום: 11:53\nצאת הכוכבים: 18:06
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270221-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:🌿 פורים קטן | ☀️ 06:15 | 🌅 17:30 | י״ד אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ד אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nמועד: פורים קטן\nזריחה: 06:15\nשקיעה: 17:30\nסוף זמן ק"ש (גר"א): 09:04\nסוף זמן תפילה (גר"א): 10:00\nחצות היום: 11:52\nצאת הכוכבים: 18:07
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270222-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:🌿 שושן פורים קטן | ☀️ 06:14 | 🌅 17:31 | ט״ו אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ו אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nמועד: שושן פורים קטן\nזריחה: 06:14\nשקיעה: 17:31\nסוף זמן ק"ש (גר"א): 09:03\nסוף זמן תפילה (גר"א): 10:00\nחצות היום: 11:52\nצאת הכוכבים: 18:07
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270223-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:☀️ 06:13 | 🌅 17:32 | ט״ז אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ז אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:13\nשקיעה: 17:32\nסוף זמן ק"ש (גר"א): 09:03\nסוף זמן תפילה (גר"א): 09:59\nחצות היום: 11:52\nצאת הכוכבים: 18:08
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270224-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:☀️ 06:12 | 🌅 17:32 | י״ז אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ז אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:12\nשקיעה: 17:32\nסוף זמן ק"ש (גר"א): 09:02\nסוף זמן תפילה (גר"א): 09:59\nחצות היום: 11:52\nצאת הכוכבים: 18:09
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270225-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:☀️ 06:11 | 🌅 17:33 | י״ח אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ח אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:11\nשקיעה: 17:33\nסוף זמן ק"ש (גר"א): 09:01\nסוף זמן תפילה (גר"א): 09:58\nחצות היום: 11:52\nצאת הכוכבים: 18:10
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270226-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:🕯️ כניסת שבת: 16:54 | פרשת כי תשא | 🌅 שקיעה: 17:34
+DESCRIPTION:תאריך עברי: י״ט אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:54\nפרשת השבוע: פרשת כי תשא\nשקיעה: 17:34\nזריחה: 06:10\nסוף זמן ק"ש (גר"א): 09:01\nסוף זמן תפילה (גר"א): 09:58\nחצות היום: 11:52\nצאת הכוכבים: 18:10
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270227-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:✨ פרשת כי תשא | 🍷 צאת שבת: 18:11
+DESCRIPTION:תאריך עברי: כ׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת כי תשא\nהבדלה: 18:11\nשקיעה: 17:35\nזריחה: 06:09\nסוף זמן ק"ש (גר"א): 09:00\nסוף זמן תפילה (גר"א): 09:57\nחצות היום: 11:52\nצאת הכוכבים: 18:11
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270228-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:☀️ 06:07 | 🌅 17:35 | כ״א אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״א אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:07\nשקיעה: 17:35\nסוף זמן ק"ש (גר"א): 08:59\nסוף זמן תפילה (גר"א): 09:57\nחצות היום: 11:51\nצאת הכוכבים: 18:12
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270301-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:☀️ 06:06 | 🌅 17:36 | כ״ב אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ב אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:06\nשקיעה: 17:36\nסוף זמן ק"ש (גר"א): 08:59\nסוף זמן תפילה (גר"א): 09:56\nחצות היום: 11:51\nצאת הכוכבים: 18:13
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270302-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:☀️ 06:05 | 🌅 17:37 | כ״ג אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ג אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:05\nשקיעה: 17:37\nסוף זמן ק"ש (גר"א): 08:58\nסוף זמן תפילה (גר"א): 09:56\nחצות היום: 11:51\nצאת הכוכבים: 18:13
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270303-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:☀️ 06:04 | 🌅 17:38 | כ״ד אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ד אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:04\nשקיעה: 17:38\nסוף זמן ק"ש (גר"א): 08:57\nסוף זמן תפילה (גר"א): 09:55\nחצות היום: 11:51\nצאת הכוכבים: 18:14
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270304-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:☀️ 06:03 | 🌅 17:38 | כ״ה אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ה אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:03\nשקיעה: 17:38\nסוף זמן ק"ש (גר"א): 08:57\nסוף זמן תפילה (גר"א): 09:55\nחצות היום: 11:51\nצאת הכוכבים: 18:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270305-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:🕯️ כניסת שבת: 16:59 | פרשת ויקהל | 🌅 שקיעה: 17:39
+DESCRIPTION:תאריך עברי: כ״ו אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 16:59\nפרשת השבוע: פרשת ויקהל\nשקיעה: 17:39\nזריחה: 06:02\nסוף זמן ק"ש (גר"א): 08:56\nסוף זמן תפילה (גר"א): 09:54\nחצות היום: 11:50\nצאת הכוכבים: 18:15
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270306-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🌿 שבת שקלים | ✨ פרשת ויקהל | 🍷 צאת שבת: 18:16
+DESCRIPTION:תאריך עברי: כ״ז אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nמועד: שבת שקלים\nפרשת השבוע: פרשת ויקהל\nהבדלה: 18:16\nשקיעה: 17:40\nזריחה: 06:00\nסוף זמן ק"ש (גר"א): 08:55\nסוף זמן תפילה (גר"א): 09:54\nחצות היום: 11:50\nצאת הכוכבים: 18:16
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270307-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:☀️ 05:59 | 🌅 17:41 | כ״ח אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ח אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:59\nשקיעה: 17:41\nסוף זמן ק"ש (גר"א): 08:55\nסוף זמן תפילה (גר"א): 09:53\nחצות היום: 11:50\nצאת הכוכבים: 18:17
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270308-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:🌿 יום כפור קטן אדר ב׳ | ☀️ 05:58 | 🌅 17:41 | כ״ט אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ט אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nמועד: יום כפור קטן אדר ב׳\nזריחה: 05:58\nשקיעה: 17:41\nסוף זמן ק"ש (גר"א): 08:54\nסוף זמן תפילה (גר"א): 09:52\nחצות היום: 11:50\nצאת הכוכבים: 18:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270309-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:🌿 ראש חודש אדר ב׳ | ☀️ 05:57 | 🌅 17:42 | ל׳ אֲדָר א׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ל׳ אֲדָר א׳ תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש אדר ב׳\nזריחה: 05:57\nשקיעה: 17:42\nסוף זמן ק"ש (גר"א): 08:53\nסוף זמן תפילה (גר"א): 09:52\nחצות היום: 11:49\nצאת הכוכבים: 18:18
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270310-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🌿 ראש חודש אדר ב׳ | ☀️ 05:56 | 🌅 17:43 | א׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: א׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש אדר ב׳\nזריחה: 05:56\nשקיעה: 17:43\nסוף זמן ק"ש (גר"א): 08:52\nסוף זמן תפילה (גר"א): 09:51\nחצות היום: 11:49\nצאת הכוכבים: 18:19
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270311-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:☀️ 05:54 | 🌅 17:44 | ב׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ב׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:54\nשקיעה: 17:44\nסוף זמן ק"ש (גר"א): 08:52\nסוף זמן תפילה (גר"א): 09:51\nחצות היום: 11:49\nצאת הכוכבים: 18:20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270312-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:🕯️ כניסת שבת: 17:04 | פרשת פקודי | 🌅 שקיעה: 17:44
+DESCRIPTION:תאריך עברי: ג׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 17:04\nפרשת השבוע: פרשת פקודי\nשקיעה: 17:44\nזריחה: 05:53\nסוף זמן ק"ש (גר"א): 08:51\nסוף זמן תפילה (גר"א): 09:50\nחצות היום: 11:49\nצאת הכוכבים: 18:20
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270313-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:✨ פרשת פקודי | 🍷 צאת שבת: 18:21
+DESCRIPTION:תאריך עברי: ד׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nפרשת השבוע: פרשת פקודי\nהבדלה: 18:21\nשקיעה: 17:45\nזריחה: 05:52\nסוף זמן ק"ש (גר"א): 08:50\nסוף זמן תפילה (גר"א): 09:50\nחצות היום: 11:48\nצאת הכוכבים: 18:21
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270314-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:☀️ 05:51 | 🌅 17:46 | ה׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ה׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:51\nשקיעה: 17:46\nסוף זמן ק"ש (גר"א): 08:49\nסוף זמן תפילה (גר"א): 09:49\nחצות היום: 11:48\nצאת הכוכבים: 18:22
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270315-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:☀️ 05:49 | 🌅 17:46 | ו׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ו׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:49\nשקיעה: 17:46\nסוף זמן ק"ש (גר"א): 08:49\nסוף זמן תפילה (גר"א): 09:48\nחצות היום: 11:48\nצאת הכוכבים: 18:22
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270316-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:☀️ 05:48 | 🌅 17:47 | ז׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ז׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:48\nשקיעה: 17:47\nסוף זמן ק"ש (גר"א): 08:48\nסוף זמן תפילה (גר"א): 09:48\nחצות היום: 11:48\nצאת הכוכבים: 18:23
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270317-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:☀️ 05:47 | 🌅 17:48 | ח׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ח׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:47\nשקיעה: 17:48\nסוף זמן ק"ש (גר"א): 08:47\nסוף זמן תפילה (גר"א): 09:47\nחצות היום: 11:47\nצאת הכוכבים: 18:24
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270318-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:☀️ 05:46 | 🌅 17:48 | ט׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ט׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:46\nשקיעה: 17:48\nסוף זמן ק"ש (גר"א): 08:46\nסוף זמן תפילה (גר"א): 09:47\nחצות היום: 11:47\nצאת הכוכבים: 18:25
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270319-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:🕯️ כניסת שבת: 17:09 | פרשת ויקרא | 🌅 שקיעה: 17:49
+DESCRIPTION:תאריך עברי: י׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 17:09\nפרשת השבוע: פרשת ויקרא\nשקיעה: 17:49\nזריחה: 05:44\nסוף זמן ק"ש (גר"א): 08:46\nסוף זמן תפילה (גר"א): 09:46\nחצות היום: 11:47\nצאת הכוכבים: 18:25
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270320-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🌿 שבת זכור | ✨ פרשת ויקרא | 🍷 צאת שבת: 18:26
+DESCRIPTION:תאריך עברי: י״א אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: שבת זכור\nפרשת השבוע: פרשת ויקרא\nהבדלה: 18:26\nשקיעה: 17:50\nזריחה: 05:43\nסוף זמן ק"ש (גר"א): 08:45\nסוף זמן תפילה (גר"א): 09:45\nחצות היום: 11:46\nצאת הכוכבים: 18:26
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270321-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:☀️ 05:42 | 🌅 17:51 | י״ב אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ב אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:42\nשקיעה: 17:51\nסוף זמן ק"ש (גר"א): 08:44\nסוף זמן תפילה (גר"א): 09:45\nחצות היום: 11:46\nצאת הכוכבים: 18:27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270322-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:🌿 תענית אסתר\, ערב פורים | ☀️ 05:40 | 🌅 17:51 | י״ג אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ג אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: תענית אסתר\, ערב פורים\nזריחה: 05:40\nשקיעה: 17:51\nסוף זמן ק"ש (גר"א): 08:43\nסוף זמן תפילה (גר"א): 09:44\nחצות היום: 11:46\nצאת הכוכבים: 18:27
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270323-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:🌿 פורים | ☀️ 05:39 | 🌅 17:52 | י״ד אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ד אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: פורים\nזריחה: 05:39\nשקיעה: 17:52\nסוף זמן ק"ש (גר"א): 08:42\nסוף זמן תפילה (גר"א): 09:43\nחצות היום: 11:46\nצאת הכוכבים: 18:28
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270324-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🌿 שושן פורים | ☀️ 05:38 | 🌅 17:53 | ט״ו אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ו אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: שושן פורים\nזריחה: 05:38\nשקיעה: 17:53\nסוף זמן ק"ש (גר"א): 08:42\nסוף זמן תפילה (גר"א): 09:43\nחצות היום: 11:45\nצאת הכוכבים: 18:29
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270325-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:☀️ 05:37 | 🌅 17:53 | ט״ז אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: ט״ז אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 05:37\nשקיעה: 17:53\nסוף זמן ק"ש (גר"א): 08:41\nסוף זמן תפילה (גר"א): 09:42\nחצות היום: 11:45\nצאת הכוכבים: 18:29
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270326-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:🕯️ כניסת שבת: 18:14 | פרשת צו | 🌅 שקיעה: 18:54
+DESCRIPTION:תאריך עברי: י״ז אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 18:14\nפרשת השבוע: פרשת צו\nשקיעה: 18:54\nזריחה: 06:35\nסוף זמן ק"ש (גר"א): 09:40\nסוף זמן תפילה (גר"א): 10:42\nחצות היום: 12:45\nצאת הכוכבים: 19:30
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270327-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🌿 שבת פרה | ✨ פרשת צו | 🍷 צאת שבת: 19:31
+DESCRIPTION:תאריך עברי: י״ח אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: שבת פרה\nפרשת השבוע: פרשת צו\nהבדלה: 19:31\nשקיעה: 18:55\nזריחה: 06:34\nסוף זמן ק"ש (גר"א): 09:39\nסוף זמן תפילה (גר"א): 10:41\nחצות היום: 12:44\nצאת הכוכבים: 19:31
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270328-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:☀️ 06:33 | 🌅 18:55 | י״ט אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: י״ט אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:33\nשקיעה: 18:55\nסוף זמן ק"ש (גר"א): 09:38\nסוף זמן תפילה (גר"א): 10:40\nחצות היום: 12:44\nצאת הכוכבים: 19:32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270329-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:☀️ 06:32 | 🌅 18:56 | כ׳ אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ׳ אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:32\nשקיעה: 18:56\nסוף זמן ק"ש (גר"א): 09:38\nסוף זמן תפילה (גר"א): 10:40\nחצות היום: 12:44\nצאת הכוכבים: 19:32
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270330-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:☀️ 06:30 | 🌅 18:57 | כ״א אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״א אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:30\nשקיעה: 18:57\nסוף זמן ק"ש (גר"א): 09:37\nסוף זמן תפילה (גר"א): 10:39\nחצות היום: 12:43\nצאת הכוכבים: 19:33
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270331-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:☀️ 06:29 | 🌅 18:57 | כ״ב אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ב אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:29\nשקיעה: 18:57\nסוף זמן ק"ש (גר"א): 09:36\nסוף זמן תפילה (גר"א): 10:38\nחצות היום: 12:43\nצאת הכוכבים: 19:34
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270401-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:☀️ 06:28 | 🌅 18:58 | כ״ג אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ג אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:28\nשקיעה: 18:58\nסוף זמן ק"ש (גר"א): 09:35\nסוף זמן תפילה (גר"א): 10:38\nחצות היום: 12:43\nצאת הכוכבים: 19:34
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270402-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:🕯️ כניסת שבת: 18:19 | פרשת שמיני | 🌅 שקיעה: 18:59
+DESCRIPTION:תאריך עברי: כ״ד אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 18:19\nפרשת השבוע: פרשת שמיני\nשקיעה: 18:59\nזריחה: 06:26\nסוף זמן ק"ש (גר"א): 09:35\nסוף זמן תפילה (גר"א): 10:37\nחצות היום: 12:43\nצאת הכוכבים: 19:35
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270403-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:🌿 שבת החדש | ✨ פרשת שמיני | 🍷 צאת שבת: 19:36
+DESCRIPTION:תאריך עברי: כ״ה אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: שבת החדש\nפרשת השבוע: פרשת שמיני\nהבדלה: 19:36\nשקיעה: 18:59\nזריחה: 06:25\nסוף זמן ק"ש (גר"א): 09:34\nסוף זמן תפילה (גר"א): 10:37\nחצות היום: 12:42\nצאת הכוכבים: 19:36
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270404-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:☀️ 06:24 | 🌅 19:00 | כ״ו אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ו אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:24\nשקיעה: 19:00\nסוף זמן ק"ש (גר"א): 09:33\nסוף זמן תפילה (גר"א): 10:36\nחצות היום: 12:42\nצאת הכוכבים: 19:37
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270405-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:☀️ 06:23 | 🌅 19:01 | כ״ז אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ז אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:23\nשקיעה: 19:01\nסוף זמן ק"ש (גר"א): 09:32\nסוף זמן תפילה (גר"א): 10:35\nחצות היום: 12:42\nצאת הכוכבים: 19:37
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270406-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:☀️ 06:21 | 🌅 19:01 | כ״ח אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ח אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nזריחה: 06:21\nשקיעה: 19:01\nסוף זמן ק"ש (גר"א): 09:31\nסוף זמן תפילה (גר"א): 10:35\nחצות היום: 12:41\nצאת הכוכבים: 19:38
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270407-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🌿 יום כפור קטן ניסן | ☀️ 06:20 | 🌅 19:02 | כ״ט אֲדָר ב׳ תשפ״ז
+DESCRIPTION:תאריך עברי: כ״ט אֲדָר ב׳ תשפ״ז\nמיקום: ירושלים\nמועד: יום כפור קטן ניסן\nזריחה: 06:20\nשקיעה: 19:02\nסוף זמן ק"ש (גר"א): 09:31\nסוף זמן תפילה (גר"א): 10:34\nחצות היום: 12:41\nצאת הכוכבים: 19:39
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270408-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:🌿 ראש חודש ניסן | ☀️ 06:19 | 🌅 19:03 | א׳ נִיסָן תשפ״ז
+DESCRIPTION:תאריך עברי: א׳ נִיסָן תשפ״ז\nמיקום: ירושלים\nמועד: ראש חודש ניסן\nזריחה: 06:19\nשקיעה: 19:03\nסוף זמן ק"ש (גר"א): 09:30\nסוף זמן תפילה (גר"א): 10:34\nחצות היום: 12:41\nצאת הכוכבים: 19:39
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zmanim-20270409-jerusalem@gcal
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:🕯️ כניסת שבת: 18:23 | פרשת תזריע | 🌅 שקיעה: 19:03
+DESCRIPTION:תאריך עברי: ב׳ נִיסָן תשפ״ז\nמיקום: ירושלים\nהדלקת נרות (40 דק'): 18:23\nפרשת השבוע: פרשת תזריע\nשקיעה: 19:03\nזריחה: 06:18\nסוף זמן ק"ש (גר"א): 09:29\nסוף זמן תפילה (גר"א): 10:33\nחצות היום: 12:41\nצאת הכוכבים: 19:40
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

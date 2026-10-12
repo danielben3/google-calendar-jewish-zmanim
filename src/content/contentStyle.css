@@ -1,0 +1,264 @@
+/* Zmanim Content Script Styles - Google Calendar Overlay */
+
+#gcal-jewish-zmanim-container {
+  font-family: 'Google Sans', Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+  direction: rtl;
+  text-align: right;
+  z-index: 9999;
+  position: relative;
+}
+
+.gcal-zmanim-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.96) 0%, rgba(248, 250, 252, 0.94) 100%);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+  box-shadow: 0 4px 15px -3px rgba(0, 0, 0, 0.05), 0 2px 6px -2px rgba(0, 0, 0, 0.03);
+  padding: 8px 18px;
+  font-size: 13.5px;
+  color: #1e293b;
+  transition: all 0.25s ease;
+}
+
+/* Dark mode support if user has Google Calendar in Dark Mode */
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-bar {
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.95) 0%, rgba(15, 23, 42, 0.95) 100%);
+    border-bottom: 1px solid rgba(51, 65, 85, 0.8);
+    color: #f1f5f9;
+    box-shadow: 0 4px 15px -3px rgba(0, 0, 0, 0.3);
+  }
+}
+
+.gcal-zmanim-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.gcal-zmanim-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: rgba(241, 245, 249, 0.85);
+  border: 1px solid rgba(203, 213, 225, 0.5);
+  font-weight: 500;
+  color: #334155;
+  transition: all 0.15s ease-in-out;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-pill {
+    background: rgba(51, 65, 85, 0.7);
+    border: 1px solid rgba(71, 85, 105, 0.6);
+    color: #e2e8f0;
+  }
+}
+
+.gcal-zmanim-pill-primary {
+  background: linear-gradient(135deg, #eef2ff 0%, #e0e7ff 100%);
+  border: 1px solid #c7d2fe;
+  color: #3730a3;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-pill-primary {
+    background: linear-gradient(135deg, #312e81 0%, #3730a3 100%);
+    border: 1px solid #4338ca;
+    color: #e0e7ff;
+  }
+}
+
+.gcal-zmanim-pill-gold {
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+  border: 1px solid #fcd34d;
+  color: #92400e;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-pill-gold {
+    background: linear-gradient(135deg, #78350f 0%, #92400e 100%);
+    border: 1px solid #b45309;
+    color: #fef3c7;
+  }
+}
+
+.gcal-zmanim-pill-shabbat {
+  background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%);
+  border: 1px solid #fbcfe8;
+  color: #9d174d;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-pill-shabbat {
+    background: linear-gradient(135deg, #831843 0%, #9d174d 100%);
+    border: 1px solid #be185d;
+    color: #fce7f3;
+  }
+}
+
+.gcal-zmanim-btn {
+  background: #4f46e5;
+  color: white;
+  border: none;
+  padding: 4px 12px;
+  border-radius: 16px;
+  font-size: 12.5px;
+  font-weight: 500;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(79, 70, 229, 0.25);
+}
+
+.gcal-zmanim-btn:hover {
+  background: #4338ca;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(79, 70, 229, 0.35);
+}
+
+/* Modal Popup for Full Zmanim */
+.gcal-zmanim-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.45);
+  backdrop-filter: blur(4px);
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.gcal-zmanim-modal {
+  background: white;
+  border-radius: 18px;
+  width: 100%;
+  max-width: 440px;
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  padding: 22px;
+  direction: rtl;
+  text-align: right;
+  font-family: inherit;
+  animation: gcalModalIn 0.2s ease-out;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-modal {
+    background: #1e293b;
+    border-color: #334155;
+    color: #f8fafc;
+  }
+}
+
+@keyframes gcalModalIn {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.gcal-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-modal-header {
+    border-color: #334155;
+  }
+}
+
+.gcal-modal-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #1e293b;
+  margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-modal-title {
+    color: #f1f5f9;
+  }
+}
+
+.gcal-modal-close {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #64748b;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gcal-modal-close:hover {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+.gcal-zmanim-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.gcal-zmanim-grid-item {
+  background: #f8fafc;
+  padding: 9px 12px;
+  border-radius: 10px;
+  border: 1px solid #f1f5f9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-grid-item {
+    background: #0f172a;
+    border-color: #1e293b;
+  }
+}
+
+.gcal-zmanim-label {
+  color: #64748b;
+  font-weight: 500;
+}
+
+.gcal-zmanim-val {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+@media (prefers-color-scheme: dark) {
+  .gcal-zmanim-val {
+    color: #e2e8f0;
+  }
+}

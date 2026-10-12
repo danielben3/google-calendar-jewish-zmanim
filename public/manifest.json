@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "זמני הלכה ופרשת שבוע ל-Google Calendar",
+  "version": "1.0.0",
+  "description": "זמני שקיעה, זריחה, כניסת ויציאת שבת ופרשת שבוע ב-Google Calendar עם תצוגת סרגל עליון וסנכרון אירועי יום שלם",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "זמני הלכה ופרשת שבוע",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://calendar.google.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://calendar.google.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
