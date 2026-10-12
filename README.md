@@ -2,7 +2,7 @@
 
 <div dir="rtl" align="right">
 
-[![CI](https://github.com/daniel/google-calendar-jewish-zmanim/actions/workflows/ci.yml/badge.svg)](https://github.com/daniel/google-calendar-jewish-zmanim/actions)
+[![CI](https://github.com/danielben3/google-calendar-jewish-zmanim/actions/workflows/ci.yml/badge.svg)](https://github.com/danielben3/google-calendar-jewish-zmanim/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev/)
@@ -54,7 +54,7 @@
 
 ```bash
 # 1. שכפול המאגר
-git clone https://github.com/daniel/google-calendar-jewish-zmanim.git
+git clone https://github.com/danielben3/google-calendar-jewish-zmanim.git
 cd google-calendar-jewish-zmanim
 
 # 2. התקנת תלויות
